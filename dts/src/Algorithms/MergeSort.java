@@ -1,4 +1,4 @@
-package Algorithms.BasicAlgorithms;
+package Algorithms;
 
 import java.util.Arrays;
 
